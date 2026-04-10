@@ -147,12 +147,6 @@ Pull request ve issue açmaya hoş geldiniz! Özellikle şu konularda katkı bek
 
 ---
 
-## 📄 Lisans
-
-MIT License — dilediğiniz gibi kullanabilir ve geliştirebilirsiniz.
-
----
-
 ## 💡 İlham
 
 Bu projeyi yapmamı sağlayan sosyal medyada gördüğüm bir videoydu. Kim paylaştığını hatırlamıyorum ama o video olmasaydı böyle bir şey denemezdim. Fikri ilk atan kim idiyse, teşekkürler. 🙏
